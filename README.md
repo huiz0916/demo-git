@@ -4,4 +4,4 @@ Hello there!
 
 ## Subtittle
 
-Please give a like.
+Please give a like!
